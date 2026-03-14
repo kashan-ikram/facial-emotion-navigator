@@ -15,6 +15,7 @@ Upload any face image and get:
 - Relevant Canadian mental health resources (if emotion is concerning)
 - Wellness tips (if emotion is positive or neutral)
 - Crisis line 9-8-8 always visible
+- ![Demo](demo.png)
 
 ## How it works
 
