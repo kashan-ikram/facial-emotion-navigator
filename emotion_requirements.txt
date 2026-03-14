@@ -1,0 +1,10 @@
+transformers
+peft
+torch
+sentence-transformers
+faiss-cpu
+huggingface_hub
+accelerate
+numpy
+Pillow
+gradio
